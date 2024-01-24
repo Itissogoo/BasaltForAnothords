@@ -165,7 +165,8 @@
 	--header-subtitle: 'RAMA HISPANOHABLANTE';
 }
 
-
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap');
+@import url(https://fonts.font.im/css?family=PT+Serif:400i);
 /* ===SIMPLIFIED CHINESE BRANCH=== */
 :root:where(:lang(cn)) {
 
